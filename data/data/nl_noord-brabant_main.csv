@@ -1,0 +1,9 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Eindhoven,51.45,5.466667,Netherlands,NL,Noord-Brabant,minor,398053,231642
+Tilburg,51.576922,5.106331,Netherlands,NL,Noord-Brabant,minor,217259,217259
+Breda,51.566667,4.8,Netherlands,NL,Noord-Brabant,minor,183873,183873
+s-Hertogenbosch,51.700196,5.306806,Netherlands,NL,Noord-Brabant,admin,154205,154205
+Bergen op Zoom,51.494492,4.283509,Netherlands,NL,Noord-Brabant,minor,,
+Cuijk,51.728069,5.881147,Netherlands,NL,Noord-Brabant,minor,,
+Budel,51.27159,5.57471,Netherlands,NL,Noord-Brabant,minor,,
+Woudrichem,51.811967,4.99719,Netherlands,NL,Noord-Brabant,minor,,
